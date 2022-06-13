@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="d_primary_200">#cdffad</color>
+    <color name="d_primary_500">#a8ff70</color>
+    <color name="d_primary_700">#79f22c</color>
+    <color name="d_background">#1a1a1a</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+</resources>
